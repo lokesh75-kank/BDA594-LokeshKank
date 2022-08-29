@@ -1,7 +1,7 @@
 # BDA594-LokeshKank
 ## Lokesh_Kank
 
-![Pic](https://user-images.githubusercontent.com/85188079/187310700-f71ccc8e-3f92-488b-9656-ba8927a1f150.JPG | 100x100)
+![Pic](https://user-images.githubusercontent.com/85188079/187310700-f71ccc8e-3f92-488b-9656-ba8927a1f150.JPG | width = 100)
 
 
 The URL to the [BDA/GEOG594](https://sdsu.instructure.com/courses/113151) class.
