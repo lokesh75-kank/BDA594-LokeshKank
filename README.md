@@ -1,5 +1,5 @@
 # BDA594-LokeshKank
-##Lokesh Kank
+#Lokesh_Kank
 
 The URL to the [BDA/GEOG594](https://sdsu.instructure.com/courses/113151) class.
 
