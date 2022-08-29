@@ -2,7 +2,7 @@
 ## Lokesh_Kank
 
 
-<img src="https://user-images.githubusercontent.com/85188079/187310700-f71ccc8e-3f92-488b-9656-ba8927a1f150.JPG" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/85188079/187310700-f71ccc8e-3f92-488b-9656-ba8927a1f150.JPG" width="200" height="300">
 
 The URL to the [BDA/GEOG594](https://sdsu.instructure.com/courses/113151) class.
 
